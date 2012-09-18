@@ -1,0 +1,4 @@
+VFS-Thrift-Adapter
+==================
+
+A http middleware to wrap vfs instances and expose them via a Thrift interface
